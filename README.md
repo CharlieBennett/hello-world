@@ -1,5 +1,5 @@
 # hello-world
-Testing GitHub
+GitHub Example
 
 I am supposed to write something here about the commit but am too lazy
 
